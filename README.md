@@ -26,20 +26,11 @@ Source: Synthetic/generated for project purpose
 * **BMI levels** tended to be higher among night workers.
 * **Smoking and low physical activity** were more common in the night shift population.
 
-## 🤖 Modeling Results (If applicable)
-
-Since this project is focused on data analysis and visualization, no machine learning models were trained. However, DAX measures and calculated fields in Power BI provided insights, such as:
+## 🤖 Modeling Results
 
 * Avg Sleep Hours by Shift
 * % with Chronic Disease by Shift Type
 
-## 🖼️ Screenshots
-
-Insert dashboard visuals here:
-
-```
-![Dashboard Overview](images/dashboard_overview.png)
-![Burnout Insights](images/burnout_insights.png)
 ```
 
 ## 🚀 How to Run
